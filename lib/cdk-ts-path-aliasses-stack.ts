@@ -1,5 +1,5 @@
 import * as cdk from '@aws-cdk/core';
-import { ID } from './inner-dir'
+import { ID } from '~/inner-dir'
 
 export class CdkTsPathAliassesStack extends cdk.Stack {
   constructor(scope: cdk.Construct, id: string, props?: cdk.StackProps) {

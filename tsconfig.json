@@ -21,6 +21,17 @@
     "strictPropertyInitialization": false,
     "typeRoots": [
       "./node_modules/@types"
+    ],
+    "baseUrl": "./lib",
+    "paths": {
+      "~/*": [
+        "./*"
+      ]
+    }
+  },
+  "ts-node": {
+    "require": [
+      "tsconfig-paths/register"
     ]
   },
   "exclude": [
