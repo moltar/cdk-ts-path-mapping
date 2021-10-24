@@ -1,0 +1,1 @@
+export const ID = 'cdk-ts-path-aliasses'
