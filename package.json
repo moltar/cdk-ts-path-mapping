@@ -14,10 +14,11 @@
     "@aws-cdk/assert": "1.124.0",
     "@types/jest": "^26.0.10",
     "@types/node": "10.17.27",
+    "aws-cdk": "1.124.0",
     "jest": "^26.4.2",
     "ts-jest": "^26.2.0",
-    "aws-cdk": "1.124.0",
     "ts-node": "^9.0.0",
+    "tsconfig-paths": "3.11.0",
     "typescript": "~3.9.7"
   },
   "dependencies": {
